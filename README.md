@@ -30,13 +30,3 @@ A modern, responsive **flower shop website** template built with **HTML** and **
    ```bash
    git clone https://github.com/yourusername/faugei-flower-shop.git
 
-
-Faugei Flower Shop/
-├─ index.html
-├─ Image/
-│  ├─ logo.png
-│  ├─ hero-flower.png
-│  ├─ sample-flower-image.png
-│  └─ ... other images
-└─ README.md
-
