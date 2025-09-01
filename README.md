@@ -20,15 +20,17 @@ A modern, responsive **flower shop website** template built with **HTML** and **
 
 ## Screenshots
 
-![Hero Section](Image/hero-flower.png)
-![Product Grid](Image/sample-flower-image.png)
-![Deals Section](Image/deal-bloom.png)
+### Full Website Preview
+![Faugei Flower Shop](images/flowershop.png)
+*A complete snapshot of the Faugei Flower Shop homepage showcasing the hero section, product grid, and layout.*
 
 ## How to Use
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/faugei-flower-shop.git
+
+
 
 Faugei Flower Shop/
 ├─ index.html
