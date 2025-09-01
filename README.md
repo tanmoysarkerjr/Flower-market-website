@@ -31,7 +31,6 @@ A modern, responsive **flower shop website** template built with **HTML** and **
    git clone https://github.com/yourusername/faugei-flower-shop.git
 
 
-
 Faugei Flower Shop/
 ├─ index.html
 ├─ Image/
@@ -40,3 +39,4 @@ Faugei Flower Shop/
 │  ├─ sample-flower-image.png
 │  └─ ... other images
 └─ README.md
+
