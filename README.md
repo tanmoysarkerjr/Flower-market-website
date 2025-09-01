@@ -21,7 +21,7 @@ A modern, responsive **flower shop website** template built with **HTML** and **
 ## Screenshots
 
 ### Full Website Preview
-![Faugei Flower Shop](images/flowershop.png)
+![Faugei Flower Shop](Image/flowershop.png)
 *A complete snapshot of the Faugei Flower Shop homepage showcasing the hero section, product grid, and layout.*
 
 ## How to Use
